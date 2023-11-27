@@ -1,5 +1,9 @@
 # React + Vite
 
+Este es el sistema que estaremos probando. 
+El mismo se va a construir empleando las siguientes tecnologías: 
+  Tailwind, Javascript, React y Node.js.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
